@@ -1,22 +1,21 @@
-# Documentation portal publisher guide
+# What is this Documentation portal for?
 
-## What is the documentation portal?
+You can explore and find technical resources and software documentation in this portal to integrate Singapore’s Government Technologies. Additionally, on this portal,  you can now write your project documentation with markdown files in your own git repositories - they are automatically synced and published to this documentation portal.
 
-Developers can now write their project documentation with markdown files in their own git repositories, which are **automatically synced and published** to the documentation portal.
+## 1) Guiding you to integrate Singapore Government Technologies
 
-## Why write technical documentation?
+Developers and builders like yourself can learn how to integrate Singapore Government Technologies easily and seamlessly. User guides, step-by-step examples and tutorials will guide you along the way to make the process fuss-free.
 
-Every piece of software that is meant to be reused needs proper user-facing documentation. [Read more about writing documentation](advanced/writing-documentation).
+**\*Note that you will need to be logged in to view Private Documentation**
 
-### Public and private documentation
+[Explore our Technical documentations](https://stg.docs.developer.gov.sg/docs/public)
 
-Users can choose whether their documentation sites are public-facing or behind a TechPass login.
+## 2) Guiding you to write Technical Documentation
 
-### Start writing documentation
+A Documentation holds your product-related data and information so that anyone after can integrate your software easily. Hence, every piece of software needs proper user-facing documentation.
 
-The Documentation Portal supports two documentation formats:
+It doesn’t matter how good your software is, because if the documentation is not readable, people face difficulty using your technical product.
 
-- Markdown, rendered through [Docsify](https://docsify.js.org)
-- OpenAPI (also known as Swagger) definitions in JSON or YAML, rendered through [ReDoc](https://github.com/redocly/redoc)
+Our [Publisher Guide](https://stg.docs.developer.gov.sg/docs/public/238425294/doc-portal-publisher-guide/#/) will help you to write user-friendly technical documentations.
 
-You will need a [TechPass](https://portal.techpass.gov.sg) and free [github.com](https://www.github.com) account. [Get started here](get-started).
+[Start writing here.](https://stg.docs.developer.gov.sg/docs/public/238425294/doc-portal-publisher-guide/#/get-started)
