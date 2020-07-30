@@ -1,4 +1,4 @@
-# What is this Documentation portal for?
+# What is this Documentation portal for? {docsify-ignore-all}
 
 You can explore and find technical resources and software documentation in this portal to integrate Singapore’s Government Technologies. Additionally, on this portal,  you can now write your project documentation with markdown files in your own git repositories - they are automatically synced and published to this documentation portal.
 
