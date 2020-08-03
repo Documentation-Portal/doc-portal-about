@@ -1,2 +1,2 @@
 * [Introduction](/)
-* [Types of documentation](writing-documentation)
+<!-- * [Types of documentation](writing-documentation) -->

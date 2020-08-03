@@ -1,21 +1,21 @@
-# What is this Documentation portal for? {docsify-ignore-all}
+# What is the Documentation portal for?
 
-You can explore and find technical resources and software documentation in this portal to integrate Singapore’s Government Technologies. Additionally, on this portal,  you can now write your project documentation with markdown files in your own git repositories - they are automatically synced and published to this documentation portal.
+## Learn and integrate Government technologies and APIs
 
-## 1) Guiding you to integrate Singapore Government Technologies
+The Government developer documentation portal lets you explore technical resources and software documentation on technologies build by the Singapore Government, allowing you to more easily use or integrate government technologies in your projects.
 
-Developers and builders like yourself can learn how to integrate Singapore Government Technologies easily and seamlessly. User guides, step-by-step examples and tutorials will guide you along the way to make the process fuss-free.
+This portal hosts both public and private documentation. Public officers and approved vendors who have access to a TechPass account can access private technical documentation after logging in.
 
-**\*Note that you will need to be logged in to view Private Documentation**
+[Explore public documentation](https://stg.docs.developer.gov.sg/docs/public)
 
-[Explore our Technical documentations](https://stg.docs.developer.gov.sg/docs/public)
+[Find out how to get access to TechPass](https://example.com)
 
-## 2) Guiding you to write Technical Documentation
+## Publish technical documentation
 
-A Documentation holds your product-related data and information so that anyone after can integrate your software easily. Hence, every piece of software needs proper user-facing documentation.
+If you are a public officer or an approved vendor with a TechPass account, you can write and publish documentation or API specifications for your own projects using Markdown or OpenAPI/Swagger files respectively. These files would be hosted and served by documentation portal as web pages, with support for full text search.
 
-It doesn’t matter how good your software is, because if the documentation is not readable, people face difficulty using your technical product.
+### Access control
 
-Our [Publisher Guide](https://stg.docs.developer.gov.sg/docs/public/238425294/doc-portal-publisher-guide/#/) will help you to write user-friendly technical documentations.
+You can choose to publish them with _public_ or _private_ access, and if private, you can specify emails or entire email domains to allow other TechPass users holding those emails to access your documentation.
 
-[Start writing here.](https://stg.docs.developer.gov.sg/docs/public/238425294/doc-portal-publisher-guide/#/get-started)
+**\*You would need to have a TechPass account to view or publish private documentation**
