@@ -6,7 +6,7 @@ The Government developer documentation portal lets you explore technical resourc
 
 This portal hosts both public and private documentation. Public officers and approved vendors who have access to a TechPass account can access private technical documentation after logging in.
 
-[Explore public documentation](https://stg.docs.developer.gov.sg/docs/public)
+[Explore public documentation](https://docs.developer.gov.sg/docs/public)
 
 [Find out how to get access to TechPass](https://example.com)
 
