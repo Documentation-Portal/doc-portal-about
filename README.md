@@ -8,7 +8,7 @@ This portal hosts both public and private documentation. Public officers and app
 
 [Explore public documentation](https://docs.developer.gov.sg/docs/public)
 
-[Find out how to get access to TechPass](https://example.com)
+[Find out how to get access to TechPass](mailto:enquiries_techpass@tech.gov.sg)
 
 ## Publish technical documentation
 
@@ -18,4 +18,4 @@ If you are a public officer or an approved vendor with a TechPass account, you c
 
 You can choose to publish them with _public_ or _private_ access, and if private, you can specify emails or entire email domains to allow other TechPass users holding those emails to access your documentation.
 
-**\*You would need to have a TechPass account to view or publish private documentation**
+> You would need to have a TechPass account to view or publish private documentation
