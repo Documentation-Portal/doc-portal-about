@@ -8,7 +8,7 @@ This portal hosts both public and private documentation. Public officers and app
 
 [Explore public documentation](https://docs.developer.gov.sg/docs/public)
 
-[Find out how to get access to TechPass](mailto:enquiries_techpass@tech.gov.sg)
+[📧 Find out how to get access to TechPass](mailto:enquiries_techpass@tech.gov.sg)
 
 ## Publish technical documentation
 
