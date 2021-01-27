@@ -18,4 +18,6 @@ If you are a public officer or an approved vendor with a TechPass account, you c
 
 You can choose to publish them with _public_ or _private_ access, and if private, you can specify emails or entire email domains to allow other TechPass users holding those emails to access your documentation.
 
+[View the publishing guide](https://docs.developer.gov.sg/docs/public/238425294/doc-portal-publisher-guide/)
+
 > You would need to have a TechPass account to view or publish private documentation
